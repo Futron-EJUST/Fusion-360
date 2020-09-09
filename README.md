@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## Welcome to FUTRON CLUB
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/Fusion-360/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Description 
 
-### Markdown
+Mechanical design is considered to be the backbone of the robotics systems. So, in order to validate our mechanical design, we need to investigate the stresses applied to the design and the kinematics analysis of desired mechanisms. Autodesk Fusion 360 provide us with required tools for mechanical design. So, by end of this course you will be able to sketch and build and body, structure or component in your environment. After this course, you will be ready and have a solid base to enhance your skills and learn assembly and required simulation analysis.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Course Content 
 
-```markdown
-Syntax highlighted code block
+1. Navigaion through Fusion 360 Environment
 
-# Header 1
-## Header 2
-### Header 3
+2. 2D-sketch
 
-- Bulleted
-- List
+3. Extrude
 
-1. Numbered
-2. List
+4. Cut-Extrude
 
-**Bold** and _Italic_ and `Code` text
+5. Sketch Dimension & Set Constraints
 
-[Link](url) and ![Image](src)
-```
+6. Appearance
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+7. Construction Lines
 
-### Jekyll Themes
+8. Sketch Filets
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/Fusion-360/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+9. Patterns
 
-### Support or Contact
+10. Mirror Feature
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+11. Offset Planes & Mid-Planes
+
+12. Loft Feature
+
+13. Hole Feature
+
+14. Chamfer Tool
+
+15. Draft Feature
+
+16. Press Pull Feature
+
+17. Revolve Feature
+
+18. Sweep Feature
+
+19. Creating Threads
+
+20. Reference Image & Fit point Spline
+
+21. Create Text
+
+22. Components vs Bodies
+
+24. Box, Cylinder, Pipe and Sphere Features
+
+25. Importing and Exporting Sketches
+
+The content will be uploaded when courses are launched
+
+Return to [home page](https://futron-ejust.github.io/FUTRON/).
+
